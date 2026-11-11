@@ -1,5 +1,5 @@
 
-# Hi, I'm Precious Emeka 👋
+# Hi, I'm Precious Emeka
 
 ### Data Analyst | Aspiring Data Scientist
 
@@ -12,7 +12,7 @@ I enjoy working with data to uncover patterns, generate insights, and solve real
 - 📈 Business Intelligence & Reporting
 - 🤖 Exploring Machine Learning and AI
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
