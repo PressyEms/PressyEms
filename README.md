@@ -5,7 +5,7 @@
 
 I enjoy working with data to uncover patterns, generate insights, and solve real-world problems. I'm particularly interested in using data analytics, machine learning, and AI to support better decision-making.
 
-### 🔍 What I Do
+### What I Do
 - 📊 Data Analysis & Visualization
 - 🐍 Python for Data Analysis
 - 🗄️ SQL & Database Management
@@ -23,13 +23,14 @@ I enjoy working with data to uncover patterns, generate insights, and solve real
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/precious-nmesoma/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
+  <a href="https://www.linkedin.com/in/precious-nmesoma/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" />
   </a>
-  <a href="hellopreciousemeka@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="35" />
+  <a href="mailto:hellopreciousemeka@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Gmail" />
   </a>
 </p>
+
 
 
 
