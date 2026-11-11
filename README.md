@@ -20,9 +20,17 @@ I enjoy working with data to uncover patterns, generate insights, and solve real
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🤝 Let's Connect
-- LinkedIn:(https://www.linkedin.com/in/precious-nmesoma/)
-- Email: hellopreciousemeka@gmail.com
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="(https://www.linkedin.com/in/precious-nmesoma/)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
+  </a>
+  <a href="hellopreciousemeka@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" />
+  </a>
+</p>
+
 
 
 -->
